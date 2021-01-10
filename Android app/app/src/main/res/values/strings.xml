@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stete</string>
+    <string name="novo">Nova steta</string>
+    <string name="promjeni">Promjeni štetu</string>
+    <string name="obrisi">Obriši štetu</string>
+    <string name="odustani">Odustani</string>
+    <string name="vlasnik">Vlasnik</string>
+    <string name="geografskaSirina">Geografska sirina</string>
+        <string name="geografskaDuzina">Geografska duzina</string>
+    <string name="iznosStete">Iznos stete</string>
+    <string name="RESTAPI">https://oziz.ffos.hr/nastava20192020/isvalina_20/v1/</string>
+</resources>
